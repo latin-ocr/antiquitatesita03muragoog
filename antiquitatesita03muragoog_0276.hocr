@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./antiquitatesita03muragoog_0276.png"; bbox 0 0 4550 6072; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 236 1327 1924 2109">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 236 1327 1924 2109">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 1327 1924 2109; baseline 0 -269"><span class='ocrx_word' id='word_1_1' title='bbox 236 1515 584 2061; x_wconf 89' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_2' title='bbox 791 1327 1924 2109; x_wconf 52' lang='lat' dir='ltr'>SAERVIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 63 2189 1777 2926">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 63 2189 1777 2872">
+     <span class='ocr_line' id='line_1_2' title="bbox 197 2189 1516 2588; baseline -0.001 -62"><span class='ocrx_word' id='word_1_3' title='bbox 197 2400 199 2408; x_wconf 53' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 591 2189 1516 2588; x_wconf 83' lang='lat' dir='ltr'>HONHNIBUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 63 2668 1777 2926; baseline -0.002 -59"><span class='ocrx_word' id='word_1_5' title='bbox 63 2668 68 2678; x_wconf 74' lang='grc'>’</span> <span class='ocrx_word' id='word_1_6' title='bbox 339 2673 568 2869; x_wconf 86' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_7' title='bbox 722 2675 1777 2926; x_wconf 56' lang='lat' dir='ltr'>MASNADA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 211 2987 1981 3536">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 211 2987 1981 3536">
+     <span class='ocr_line' id='line_1_4' title="bbox 494 2987 1725 3228; baseline 0.018 -66"><span class='ocrx_word' id='word_1_8' title='bbox 494 2987 1725 3228; x_wconf 19' lang='lat' dir='ltr'>DISSERTATIOI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 211 3298 1981 3536; baseline -0.003 -74"><span class='ocrx_word' id='word_1_9' title='bbox 211 3352 238 3436; x_wconf 90' lang='grc'>·.</span> <span class='ocrx_word' id='word_1_10' title='bbox 384 3298 1696 3536; x_wconf 57' lang='grc' dir='ltr'>ᾪυΑΚΤΑῡΕοιΜΑ.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1975 3523 1981 3534; x_wconf 15' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2280 6068">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2280 6068">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2280 6068; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2280 6068; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
